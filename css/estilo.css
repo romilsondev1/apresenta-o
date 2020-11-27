@@ -76,9 +76,6 @@ p#cont1-1{
      margin-top: 50px;
  }
  
- p#textapr{
-    padding-top: 50px;
- }
 
 /*Editando Menu*/
 
@@ -186,7 +183,7 @@ a#link2{
 
 div#aprcorpo{
     padding-top: 70px;
-    padding-bottom: 70px;
+    padding-bottom: 30px;
     
 }
 
