@@ -98,8 +98,7 @@ div#capa{
     padding-top: 200px;
     padding-left: 0px;
     padding-bottom: 200px;
-    margin-bottom: 50px;
-    margin-top: 50px;
+    margin: auto;
 }
 
 div#capa h1{
